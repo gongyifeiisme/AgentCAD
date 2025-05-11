@@ -1,8 +1,7 @@
 title: My Project Site
 description: A GitHub Pages site using Jekyll
 
-jekyll-theme-NAME:
-  theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
 url: "https://gongyifeiisme.github.io"
 baseurl: "/AgentCAD
